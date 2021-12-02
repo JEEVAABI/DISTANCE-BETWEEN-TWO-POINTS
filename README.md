@@ -8,7 +8,7 @@ Import math into the program.
 ### Step 2: 
 input x,y to calculate the distance between cordinates
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.jpg)
+Substitute the values in the distance formula  ![formula](/formula.JPG)
 ### Step 4: 
 print the program.
 ### Step 5:
